@@ -6,3 +6,5 @@ git status
 git commit-a-m (to commit all the file)
 git push
 git pulll
+git merge branchname
+git checkout branchname (master,firstbranch)
