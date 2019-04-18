@@ -1,0 +1,8 @@
+			git commands:
+git add .    (add all the file in the folder)
+git add -A (add all the file in the folder)
+git add filename
+git status
+git commit-a-m (to commit all the file)
+git push
+git pulll
